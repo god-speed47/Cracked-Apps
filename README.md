@@ -1,6 +1,6 @@
 # All the up-to-date _**Cracked Social Media Apps.**_
 ## [Revanced Manager Releases](https://github.com/ReVanced/revanced-manager/releases)
-![Revanced Manager]([http://url/to/img.png](https://repository-images.githubusercontent.com/471494981/8e480a04-6474-437c-9560-0e4fe6bdd7b9))
+![Revanced Manager](https://repository-images.githubusercontent.com/471494981/8e480a04-6474-437c-9560-0e4fe6bdd7b9)
 ### With the Revanced Manager, you can get these _**Ad Free Apps:**_
 ####**YouTube**
 #####_Instructions:_
