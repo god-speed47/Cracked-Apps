@@ -4,7 +4,8 @@
 ### With the Revanced Manager, you can get these _**Ad Free Apps:**_
 #### **YouTube**
 ##### _Instructions:_
-###### - Install MicroG Services By Google [Latest Releases](https://microg.org/download.html)
+###### - Install MicroG Services By Google:
+[Latest Releases](https://microg.org/download.html)
 ###### - Disable the default YouTube App (Go to the App info on your phone)
 ###### - Download the latest release of Revanced Manager APK from the link above.
 ###### - Install the Revanced Manager App to your phone
@@ -19,4 +20,4 @@
 ###### - Choose the APK you just downloaded from your files
 ###### - Hit the patch button **[Will Take A While To Patch]**
 ###### - Hit the install button, then hit it again
-###### - 
+###### - Open The App & Accept The Use Of MicroG (And other needed permissions)
